@@ -12,3 +12,4 @@ C:\Users\Zprey\Desktop\dotnet\myFirstApp\obj\Debug\net9.0\refint\myFirstApp.dll
 C:\Users\Zprey\Desktop\dotnet\myFirstApp\obj\Debug\net9.0\myFirstApp.pdb
 C:\Users\Zprey\Desktop\dotnet\myFirstApp\obj\Debug\net9.0\myFirstApp.genruntimeconfig.cache
 C:\Users\Zprey\Desktop\dotnet\myFirstApp\obj\Debug\net9.0\ref\myFirstApp.dll
+C:\Users\Zprey\Desktop\dotnet\myFirstApp\obj\Debug\net9.0\myFirstApp.sourcelink.json
